@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MD-Jubayer-Khan/MD-Jubayer-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m loo<h1 align="center">Hi 👋, I'm Jubayer</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
