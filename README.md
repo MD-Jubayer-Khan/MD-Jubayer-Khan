@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://i.ibb.co/WcMNzKJ/readmi-githubpng.png" alt="md-jubayer-khan" /></p>
 
-<p align="left"> <a href="https://github.com/MD-Jubayer-Khan"><img src="https://github-profile-trophy.vercel.app/?username=md-jubayer-khan" alt="md-jubayer-khan" /></a> </p>
-
 - 🌱 I’m currently learning **more about web development**
 
 - 👨‍💻 All of my projects are available at [https://md-jubayer-khan-portfolio.netlify.app/](https://md-jubayer-khan-portfolio.netlify.app/)
