@@ -19,6 +19,33 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16Ts49uMnSXz4VzUZ4BmmGDqK_pW-RaoB/view?usp=sharing](https://drive.google.com/file/d/16Ts49uMnSXz4VzUZ4BmmGDqK_pW-RaoB/view?usp=sharing)
 
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+```yaml
+name: MD Jubayer Khan
+located_in: Bangladesh
+current_Position: Front end Developer
+education:
+  [
+    "Self-Taught Web Developer",
+    "Diploma in Civil Engineering (running)",
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "App Development",
+    "DevOps",
+  ]
+  
+currently_learning: ["Sass, Redux, NextJS, React Native"]
+2022 Goals: ["I will Create 10+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Programming", "Gaming", "Traveling"]
+```
+  
+---  
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -41,5 +68,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jubayer-khan&show_icons=true&locale=en" alt="md-jubayer-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jubayer-khan&" alt="md-jubayer-khan" /></p>
-[![Jubayer's github activity graph](https://activity-graph.herokuapp.com/graph?username=md-jubayer-khan&theme=dracula)](https://github.com/md-jubayer-khan/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/md-jubayer-khan/github-readme-activity-graph)
+
+
