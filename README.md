@@ -41,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jubayer-khan&show_icons=true&locale=en" alt="md-jubayer-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jubayer-khan&" alt="md-jubayer-khan" /></p>
+[![Jubayer's github activity graph](https://activity-graph.herokuapp.com/graph?username=md-jubayer-khan&theme=dracula)](https://github.com/md-jubayer-khan/github-readme-activity-graph)
