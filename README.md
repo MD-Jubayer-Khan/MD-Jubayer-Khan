@@ -41,5 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jubayer-khan&show_icons=true&locale=en" alt="md-jubayer-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jubayer-khan&" alt="md-jubayer-khan" /></p>
-[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=md-jubayer-khan) 
-[Profile views](https://gpvc.arturio.dev/md-jubayer-khan)
+[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=md-jubayer-khan)
+<p align="left"> <img src="[https://i.ibb.co/WcMNzKJ/readmi-githubpng.png](https://activity-graph.herokuapp.com/graph?username=md-jubayer-khan)" alt="md-jubayer-khan" /></p>
