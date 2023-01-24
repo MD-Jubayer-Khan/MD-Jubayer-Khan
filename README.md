@@ -43,7 +43,7 @@ fields_of_interests:
   ]
   
 currently_learning: ["Sass, Redux, NextJS, React Native"]
-2022 Goals: ["I will Create 10+ Projects and learn at least 5 new Technologies."]
+2023 Goals: ["I will Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Programming", "Gaming", "Traveling"]
 ```
   
