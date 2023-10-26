@@ -71,4 +71,6 @@ hobbies: ["Programming", "Gaming", "Traveling"]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-jubayer-khan)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=md-jubayer-khan" alt="GitHub Streak" /></a>
+
 
