@@ -69,6 +69,6 @@ hobbies: ["Programming", "Gaming", "Traveling"]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jubayer-khan&show_icons=true&locale=en" alt="md-jubayer-khan" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=md-jubayer-khan&theme=dark" alt="md-jubayer-khan" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-jubayer-khan)](https://git.io/streak-stats)
 
 
