@@ -17,7 +17,7 @@
 - 📫 How to reach me **mdjubayerkhan001@gmail.com**
 -  ⚡ Fun fact: Can't tell 😄 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16Ts49uMnSXz4VzUZ4BmmGDqK_pW-RaoB/view?usp=sharing](https://drive.google.com/file/d/16Ts49uMnSXz4VzUZ4BmmGDqK_pW-RaoB/view?usp=sharing)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/16Ts49uMnSXz4VzUZ4BmmGDqK_pW-RaoB/view?usp=sharing)
 
 ---  
 
@@ -42,8 +42,7 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["Sass, Redux, NextJS, React Native"]
-2023 Goals: ["I will Create 10+ Projects and learn at least 5 new Technologies."]
+currently_learning: ["Sass, Redux, NextJS, DSA"]
 hobbies: ["Programming", "Gaming", "Traveling"]
 ```
   
@@ -70,6 +69,6 @@ hobbies: ["Programming", "Gaming", "Traveling"]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jubayer-khan&show_icons=true&locale=en" alt="md-jubayer-khan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jubayer-khan&" alt="md-jubayer-khan" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=md-jubayer-khan&theme=dark" alt="md-jubayer-khan" /></p>
 
 
