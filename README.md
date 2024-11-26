@@ -70,3 +70,12 @@ hobbies: ["Programming", "Gaming", "Traveling"]
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jubayer-khan&show_icons=true&locale=en" alt="md-jubayer-khan" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-jubayer-khan)](https://git.io/streak-stats)
+
+
+## Thanks for visiting
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/md-jubayer-khan/count.svg">
+
+Counting of visitors to this page in this section. 
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
