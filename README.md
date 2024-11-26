@@ -2,20 +2,20 @@
 
 - 👯 
 <h1 align="center">Hi 👋, I'm Jubayer</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-jubayer-khan&label=Profile%20views&color=0e75b6&style=flat" alt="md-jubayer-khan" /> </p>
 
 <p align="left"> <img src="https://i.ibb.co/WcMNzKJ/readmi-githubpng.png" alt="md-jubayer-khan" /></p>
 
-- 🌱 I’m currently learning **more about web development**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://md-jubayer-khan-portfolio.netlify.app/](https://md-jubayer-khan-portfolio.netlify.app/)
 
-- 💬 Ask me about **front end development**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **mdjubayerkhan001@gmail.com**
--  ⚡ Fun fact: Can't tell 😄 
+-  ⚡ Fun fact: It's a secret 😄 
 
 - 📄 Know about my experiences [Link](https://drive.google.com/file/d/16Ts49uMnSXz4VzUZ4BmmGDqK_pW-RaoB/view?usp=sharing)
 
@@ -30,19 +30,19 @@ current_Position: Front end Developer
 education:
   [
     "Self-Taught Web Developer",
-    "Diploma in Civil Engineering (running)",
+    "MIT Emerging Talent Program Foundation track learner" 
   ]
 fields_of_interests:
   [
     "Web Development",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
+    "MLOps",
     "App Development",
     "DevOps",
   ]
   
-currently_learning: ["Sass, Redux, NextJS, DSA"]
+currently_learning: ["DSA,OOP,data science"]
 hobbies: ["Programming", "Gaming", "Traveling"]
 ```
   
