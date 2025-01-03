@@ -1,12 +1,18 @@
-### Hi there 👋
-<!-- disable linting error for using emoji -->
-- 👯 
-<!-- disable linting error for using emoji -->
+<!-- Using HTML to create align elements.
+This is necessary for generating dynamic content and is not purely Markdown, 
+so it will not pass some CI checks. -->
 
-<!-- markdownlint-disable for used inline html-->
+### Hi there 👋
+<!-- disable linting MD009 error for using emoji -->
+-  👯
+<!-- disable linting MD009 error for using emoji -->
+
 <h1 align="center">Hi 👋, I'm Jubayer</h1>
 <h3 align="center">A passionate programmer</h3>
-<!-- markdownlint-disable for used inline html-->
+
+<!-- The src URLs below is long because it includes query parameters to generate styled badges. 
+Breaking it into multiple lines would make the badge display incorrectly or not at all. 
+This is why it doesn't pass CI checks. -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=md-jubayer-khan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
@@ -37,7 +43,7 @@ located_in: Bangladesh
 current_Position: Front end Developer
 education:
   [
-    "Self-Taught Web Developer",
+    "Self-Taught Develope / Programmer",
     "MIT Emerging Talent Program Foundation track learner"
   ]
 fields_of_interests:
@@ -55,10 +61,7 @@ hobbies: ["Programming", "Gaming", "Traveling"]
   
 ---  
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+<!-- Links to social media with badges -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/md-jubayer-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-jubayer-khan" height="30" width="40" /></a>
@@ -87,4 +90,3 @@ hobbies: ["Programming", "Gaming", "Traveling"]
 The number of visitors to this page in this section is from 26 November 2024. 
 
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-<!-- markdownlint-disable for used inline html-->
