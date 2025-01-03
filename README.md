@@ -43,7 +43,7 @@ located_in: Bangladesh
 current_Position: Front end Developer
 education:
   [
-    "Self-Taught Develope / Programmer",
+    "Self-Taught Developer / Programmer",
     "MIT Emerging Talent Program Foundation track learner"
   ]
 fields_of_interests:
