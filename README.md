@@ -1,27 +1,35 @@
 ### Hi there 👋
-
+<!-- disable linting error for using emoji -->
 - 👯 
+<!-- disable linting error for using emoji -->
+
+<!-- markdownlint-disable for used inline html-->
 <h1 align="center">Hi 👋, I'm Jubayer</h1>
-<h3 align="center">A passionate programmer </h3>
+<h3 align="center">A passionate programmer</h3>
+<!-- markdownlint-disable for used inline html-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-jubayer-khan&label=Profile%20views&color=0e75b6&style=flat" alt="md-jubayer-khan" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=md-jubayer-khan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
 
-<p align="left"> <img src="https://i.ibb.co/WcMNzKJ/readmi-githubpng.png" alt="md-jubayer-khan" /></p>
+<p align="center">
+  <img src="https://i.ibb.co/WcMNzKJ/readmi-githubpng.png" alt="Banner Image" />
+</p>
 
-- 🌱 I’m currently learning **Data Science**
+---
 
-- 👨‍💻 All of my projects are available at [https://md-jubayer-khan-portfolio.netlify.app/](https://md-jubayer-khan-portfolio.netlify.app/)
+- 🌱 **I’m currently learning:** Data Science  
+- 👨‍💻 **All of my projects are available at:** [Portfolio](https://md-jubayer-khan-portfolio.netlify.app/)  
+- 💬 **Ask me about:** Programming  
+- 📫 **How to reach me:** mdjubayerkhan001@gmail.com  
+- ⚡ **Fun fact:** It's a secret 😄  
+- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/16Ts49uMnSXz4VzUZ4BmmGDqK_pW-RaoB/view?usp=sharing)  
 
-- 💬 Ask me about **Programming**
+---
 
-- 📫 How to reach me **mdjubayerkhan001@gmail.com**
--  ⚡ Fun fact: It's a secret 😄 
-
-- 📄 Know about my experiences [Link](https://drive.google.com/file/d/16Ts49uMnSXz4VzUZ4BmmGDqK_pW-RaoB/view?usp=sharing)
-
----  
-
+<!-- markdownlint-disable MD033 -->
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<!-- markdownlint-enable MD033 -->
 
 ```yaml
 name: MD Jubayer Khan
@@ -30,7 +38,7 @@ current_Position: Front end Developer
 education:
   [
     "Self-Taught Web Developer",
-    "MIT Emerging Talent Program Foundation track learner" 
+    "MIT Emerging Talent Program Foundation track learner"
   ]
 fields_of_interests:
   [
@@ -39,10 +47,9 @@ fields_of_interests:
     "Machine Learning",
     "MLOps",
     "App Development",
-    "DevOps",
+    "DevOps"
   ]
-  
-currently_learning: ["DSA,OOP,data science"]
+currently_learning: ["DSA", "OOP", "Data Science"]
 hobbies: ["Programming", "Gaming", "Traveling"]
 ```
   
@@ -80,3 +87,4 @@ hobbies: ["Programming", "Gaming", "Traveling"]
 The number of visitors to this page in this section is from 26 November 2024. 
 
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- markdownlint-disable for used inline html-->
