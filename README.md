@@ -40,11 +40,11 @@ This is why it doesn't pass CI checks. -->
 ```yaml
 name: MD Jubayer Khan
 located_in: Bangladesh
-current_Position: Front end Developer
+current_Position: Front-end Developer
 education:
   [
-    "Self-Taught Developer / Programmer",
-    "MIT Emerging Talent Program Foundation track learner"
+    "Self-Taught Programmer",
+    "MIT Emerging Talent Program- Certificate in computer and data science"
   ]
 fields_of_interests:
   [
